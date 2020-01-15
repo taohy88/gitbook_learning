@@ -25,7 +25,7 @@
 
 ### 当前主流前端框架
 
-[Vue.js](vue.md)
+[Vue.js](/vue.md)
 
 iView：主要特点是移动端支持较多ElementUI：主要用于开发PC端的页面，是一个质量比较高的Vue UI组件库。主要特点桌面端支持较多。
 
