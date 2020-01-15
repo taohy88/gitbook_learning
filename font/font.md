@@ -1,5 +1,7 @@
 # 前端知识体系
 
+[TOC]
+
 ### 前端三要素
 
 1. 结构层 HTML
@@ -42,3 +44,14 @@ iView：主要特点是移动端支持较多ElementUI：主要用于开发PC端�
 | 静态编译       | FlowTypeScript        |      |
 | 打包工具       | webpackgluprollup     |      |
 | 工具           | npmyarn               |      |
+
+
+
+### 附加
+
+文件路径引用规则
+
+1. 同级目录：只需要引用文件名 e1.png
+2. 同级子目录：目录名/文件名 例如：images/e1.png
+3. 父级目录：../
+
