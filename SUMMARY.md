@@ -11,7 +11,7 @@
 * [网络通信知识体系](Intenet/intenet.md)
     * [计算机网络](Intenet/ComputeInt.md)
     * [网络安全](Intenet/intenetSafe.md)
-        * [数据库知识体系](SQL/SQL.md)
+* [数据库知识体系](SQL/SQL.md)
     * [SQLServer](SQL/SQLServer.md)
     * [MYSQL](SQL/MYSQL.md)
 * [结束](end/README.md)
