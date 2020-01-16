@@ -10,12 +10,16 @@
 
 
 
-* [大纲](README.md)
+* [Introduction](README.md)
 * [前端知识体系](front/front.md)
   * [HTML](front/html.md)
   * [CSS](front/css.md)
   * [JavaScript](front/js.md)
   * [Vue](front/vue.md)
+  * [ElementUI](front/ElementUI.md)
+  * [TypeScript](front/TypeScript.md)
+  * [ECMAScript6入门](front/ECMAScript6.md)
+  * [正则表达式](front/rules.md)
 * [操作系统](system/system.md)
   * [操作系统原理](system/operatingSys.md)
   * [Linux](system/linux.md)
@@ -29,9 +33,30 @@
 * 数据结构与算法
   * [极客时间-设计模式之美 王争](Data/design.md)
   * [极客时间-数据结构和算法之美-王争](Data/data.md)
-* 后端知识体系
+* [Python](back/Python.md)
   * [Python](back/Python.md)
   * [C#](back/Csharp.md)
+  * [VB](back/VB.md)工控
+  * [FX2N](InControl/fx2n.md)
+
+* 工具
+  * [Git](Tools/Git.md)
+  * [Github](Tools/github.md)
+  * [Gitbook](Tools/gitbook.md)
+  * [Pycharm](Tools/Pycharm.md)
+  * [VS](Tools/VS.md)
+  * [VSCode](Tools/VSCode.md)
+  * [IIS](Tools/IIS.md)
+  * SVG
+  * [搜索引擎技巧](Tools/search.md)
+  * [Chrome Extensions](Tools/ChromeEx.md)
+  * [Win10](Tools/win10.md)
+  * [软件测试](Tools/softwareTEST.md)
+  * [其他小工具](Tools/others.md)
+* [程序员书单](ITBooks/ITBooks.md)
+* 学习网站
+  * [Udacity优达学城](Learning/Udacity.md)
+* [金句](Quotes/Quotes.md)
 * [结束](end/README.md)
 
 
