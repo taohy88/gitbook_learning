@@ -29,6 +29,9 @@
     * [VB](back/VB.md)
 * 工控
     * [FX2N](InControl/fx2n.md)
+    * [电气](InControl/eleInfo.md)
+    * [西门子](InControl/sem.md)
+    * [厂商](InControl/company.md)
 * 工具
     * [Git](Tools/Git.md)
     * [Github](Tools/github.md)
