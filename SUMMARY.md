@@ -1,6 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
+* [Home](README.md)
+
+-----
 * [前端知识体系](front/front.md)
     * [HTML](front/html.md)
     * [CSS](front/css.md)
@@ -10,29 +12,51 @@
     * [TypeScript](front/TypeScript.md)
     * [ECMAScript6入门](front/ECMAScript6.md)
     * [正则表达式](front/rules.md)
+
+-----
 * [操作系统](system/system.md)
     * [操作系统原理](system/operatingSys.md)
     * [Linux](system/linux.md)
+    * [Fedora](system/fedora.md)
+
+-----
 * [网络通信](Intenet/intenet.md)
     * [计算机网络](Intenet/ComputeInt.md)
     * [Web网络安全](Intenet/WebSafe.md)
-* 数据库
+
+-----
+* [数据库](SQL/SQL.md)
     * [SQL](SQL/SQL.md)
     * [MYSQL](SQL/MYSQL.md)
     * [PostgreSQL](SQL/PostgreSQL.md)
-* 数据结构与算法
+
+-----
+* [数据结构与算法](Data/design.md)
     * [极客时间-设计模式之美 王争](Data/design.md)
     * [极客时间-数据结构和算法之美-王争](Data/data.md)
-* 后端知识体系
+
+-----
+* [后端知识体系](back/Python.md)
     * [Python](back/Python.md)
     * [C#](back/Csharp.md)
     * [VB](back/VB.md)
-* 工控
+
+-----
+* [ERP](ERP/odoo/install.md)
+    * [odoo](ERP/odoo/install.md)
+        * [odoo安装](ERP/odoo/install.md)
+        * [odoo用户手册](ERP/odoo/user.md)
+        * [odoo开发手册](ERP/odoo/developer.md)
+
+-----
+* [工控](InControl/fx2n.md)
     * [FX2N](InControl/fx2n.md)
     * [电气](InControl/eleInfo.md)
     * [西门子](InControl/sem.md)
     * [厂商](InControl/company.md)
-* 工具
+
+-----
+* [工具](Tools/Git.md)
     * [Git](Tools/Git.md)
     * [Github](Tools/github.md)
     * [Gitbook](Tools/gitbook.md)
@@ -46,9 +70,17 @@
     * [Win10](Tools/win10.md)
     * [软件测试](Tools/softwareTEST.md)
     * [其他小工具](Tools/others.md)
+
+-----
 * [程序员书单](ITBooks/ITBooks.md)
-* 学习网站
+
+-----
+* [学习网站](Learning/Udacity.md)
     * [Udacity优达学城](Learning/Udacity.md)
+
+-----
 * [金句](Quotes/Quotes.md)
+
+-----
 * [结束](end/README.md)
 
