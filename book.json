@@ -1,0 +1,23 @@
+{
+    "pluginsConfig":{
+        "title": "Elina学习笔记",
+        "author": "Elina",
+        "theme-default": {
+            "showLevel": true
+        },
+        "page-treeview": {
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        }
+    },
+        "plugins": [
+            "splitter",
+            "back-to-top-button",
+            "chapter-fold",
+            "page-treeview"
+
+        ]
+    
+}
+
