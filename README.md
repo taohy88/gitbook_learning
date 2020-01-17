@@ -33,7 +33,7 @@
 * 数据结构与算法
   * [极客时间-设计模式之美 王争](Data/design.md)
   * [极客时间-数据结构和算法之美-王争](Data/data.md)
-* [Python](back/Python.md)
+* 后端知识体系
   * [Python](back/Python.md)
   * [C#](back/Csharp.md)
   * [VB](back/VB.md)工控
@@ -60,4 +60,31 @@
 * [结束](end/README.md)
 
 
+
+
+
+## Reading List
+| 分类             | 标题                                             | 创建时间   | 进度     |
+| ---------------- | ------------------------------------------------ | ---------- | -------- |
+| 前端知识框架体系 | [HTML](front/html.md)                            | 2020-01-01 | `已完结` |
+|                  | [CSS](front/css.md)                              | 2020-01-17 | 进行中   |
+|                  | [JavaScript](front/js.md)                        | 2020-01-17 | 进行中   |
+| 操作系统         | [操作系统原理](system/operatingSys.md)           | 2020-01-17 | 待完善   |
+|                  | [Linux](system/linux.md)                         | 2020-01-17 | 待完善   |
+| 网络通信         | [计算机网络](Intenet/ComputeInt.md)              | 2020-01-17 | 待完善   |
+|                  | [Web网络安全](Intenet/WebSafe.md)                | 2020-01-17 | 待完善   |
+| 数据库           | [SQL](SQL/SQL.md)                                | 2020-01-17 | 未开始   |
+|                  | [MYSQL](SQL/MYSQL.md)                            | 2020-01-17 | 未开始   |
+|                  | [PostgreSQL](SQL/PostgreSQL.md)                  | 2020-01-17 | 进行中   |
+| 数据结构与算法   | [极客时间-设计模式之美 王争](Data/design.md)     | 2020-01-17 | 进行中   |
+|                  | [极客时间-数据结构和算法之美-王争](Data/data.md) | 2020-01-17 | 进行中   |
+|                  |                                                  |            |          |
+|                  |                                                  |            |          |
+|                  |                                                  |            |          |
+|                  |                                                  |            |          |
+|                  |                                                  |            |          |
+|                  |                                                  |            |          |
+|                  |                                                  |            |          |
+|                  |                                                  |            |          |
+|                  |                                                  |            |          |
 

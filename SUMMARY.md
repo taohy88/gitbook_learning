@@ -23,7 +23,7 @@
 * 数据结构与算法
     * [极客时间-设计模式之美 王争](Data/design.md)
     * [极客时间-数据结构和算法之美-王争](Data/data.md)
-* [Python](back/Python.md)
+* 后端知识体系
     * [Python](back/Python.md)
     * [C#](back/Csharp.md)
     * [VB](back/VB.md)
