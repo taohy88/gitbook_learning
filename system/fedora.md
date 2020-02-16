@@ -31,8 +31,6 @@ https://github.com/shadowsocksr-backup/shadowsocksr-libev.git
 https://github.com/shadowsocks/shadowsocks-libev
 
 
-
-
 这里提供简单的安装办法：  
 
 electron-ssr 是一个非常美观的 GUI 界面 SSR 客户端，支持订阅等若干高级功能。

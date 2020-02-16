@@ -1,3 +1,3 @@
 # TypeScript
 
-参考资料:[TypeScript](https://ts.xcatliu.com/)
+参考资料:[阮一峰TypeScript](https://ts.xcatliu.com/)
